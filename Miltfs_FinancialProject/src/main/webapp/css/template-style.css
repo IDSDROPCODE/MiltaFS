@@ -1683,16 +1683,16 @@ form.customform input, form.customform textarea, form.customform select
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: white;
+  color:  #353030 !important;
   opacity: 1; /* Firefox */
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: white;
+  color: #353030 !important;
 }
 
 ::-ms-input-placeholder { /* Microsoft Edge */
-  color: white;
+  color: #353030 !important;
 }
 
 form.customform input:hover, form.customform textarea:hover, form.customform select:hover,
